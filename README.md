@@ -1,2 +1,2 @@
 # Meus Scripts
- Meus primeiros  scripts Shell
+ Meus primeiros scripts em Shell-Script
